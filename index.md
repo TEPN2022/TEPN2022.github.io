@@ -2,6 +2,8 @@
 ### Technically co-sponsored by FABRIC
 ## TEPN2022
 
+<p align="center">
+
 International Workshop on
 Test and Evaluation of Programmable Networks
 
@@ -13,6 +15,7 @@ co-located with [DCOSS 2022](https://dcoss.org)
 
 Submission link: [click here](https://tepn2022.github.io/)
 
+  </p>
 
 
 ## SCOPE AND  TOPICS  OF  INTEREST
