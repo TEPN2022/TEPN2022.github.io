@@ -1,4 +1,4 @@
-## Test and Evaluation of Programmable Networks 2022
+## Test and Evaluation of Programmable Networks
 ### Technically co-sponsored by FABRIC
 ## TEPN2022
 
@@ -37,8 +37,7 @@ Supported by the development of several testbed facilities including Platforms f
   - Srivatsan Ravi, University of Southern California, USA
 
 #### Web Chair:
-
-	- Ali Amir Pour: Université Grenoble Alpes (UGA), France
+  - Amir Ali-pour, Universite Grenoble Alpes (UGA), France
 
 #### Technical Program committee:
 
