@@ -13,7 +13,7 @@ co-located with [DCOSS 2022](https://dcoss.org)
 
 Submission link: [click here](https://tepn2022.github.io/)
 
-<p align="center">
+<p align="justify">
 
 ## SCOPE AND  TOPICS  OF  INTEREST
 
