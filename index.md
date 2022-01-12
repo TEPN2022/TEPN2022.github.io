@@ -9,9 +9,9 @@ Marina Del Rey, LA, California, US
 
 May 30 – June 1, 2022
 
-co-located with [DCOSS 2022](https:dcoss.org)
+co-located with [DCOSS 2022](https://dcoss.org)
 
-Submission link: [click here](https:tepn2022.github.io)
+Submission link: [click here](https://tepn2022.github.io/)
 
 ## SCOPE AND  TOPICS  OF  INTEREST
 
