@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Test and Evaluation of Programmable Networks 2022
+### Technically co-sponsored by FABRIC
+## TEPN2022
 
-You can use the [editor on GitHub](https://github.com/TEPN2022/TEPN2022.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## SCOPE AND  TOPICS  OF  INTEREST
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Supported by the development of several testbed facilities including Platforms for Advanced Wireless Research (PAWR), Cloudlab, GENI, FABRIC, Chameleon, and US-European EMPOWER, researchers are able to pursue programmable network experiments across the mobile edge, core networks and the cloud.  The goal of this workshop is to bring together researchers from wireless networking, cloud computing, distributed computing, security, and autonomous systems to share their experiences and lessons learned from using these testbeds, challenges toward implementing at-scale experiments, discuss ideas to integrate experiments across multiple platforms, and facilitate the broader use of developed experiments and collected datasets with the community. 
 
-### Markdown
+### Topics of Interest:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  - Experiments using public platforms (e.g., PAWR, FABRIC, EMPOWER)
+  - Cross-testbed experiments 
+  - Evaluation of using wireless testbeds related to cellular networks, UAV systems, robotic systems, IoT systems
+  - Experimental evaluation of end-to-end (mobile edge, cloud) programmable networks
+  - Wired and wireless communication architecture and topologies for end-to-end programmable networks
+  - Experimental evaluation of privacy and security in end-to-end programmable networks
+  - Trust management in programmable networks
+  - Experimental evaluation of resiliency in programmable networks
+  - Machine learning for programmable networks
+  - Data sharing, and benchmarking in using cross-testbed experiments  
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### IMPORTANT DATES:
+  - Abstract Submission: TBD
+  - Paper Submission: TBD
+  - Acceptance Notification: TBD
+  - Camera Ready: TBD
+  - Early Registration: TBD
 
-- Bulleted
-- List
+### COMMITTEE:
+ 
+#### Workshop Chairs:
+ 
+  - Fatemeh Afghah, Clemson University, USA
+  - Kaungching Wang, Clemson University, USA
+  - Stephen Schwab, University of Southern California, USA
+  - Srivatsan Ravi, University of Southern California, USA
 
-1. Numbered
-2. List
+#### Web Chair:
 
-**Bold** and _Italic_ and `Code` text
+	- Ali Amir Pour: Université Grenoble Alpes (UGA), France
 
-[Link](url) and ![Image](src)
-```
+#### Technical Program committee:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+  - Mohammed Gharib, Clemson University
 
-### Jekyll Themes
+### Keynote:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TEPN2022/TEPN2022.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  - Ismail Guvenc, NC State University (AERPAW PI)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Panel Discussion:
+  TBD
+
+
+### Invited Authors:
+
+  - Linke Guo, Clemson
+  - Restuccia, Northeastern
+    
