@@ -2,6 +2,17 @@
 ### Technically co-sponsored by FABRIC
 ## TEPN2022
 
+International Workshop on
+Test and Evaluation of Programmable Networks
+
+Marina Del Rey, LA, California, US
+
+May 30 – June 1, 2022
+
+co-located with [DCOSS 2022](https:dcoss.org)
+
+Submission link: [click here](https:tepn2022.github.io)
+
 ## SCOPE AND  TOPICS  OF  INTEREST
 
 Supported by the development of several testbed facilities including Platforms for Advanced Wireless Research (PAWR), Cloudlab, GENI, FABRIC, Chameleon, and US-European EMPOWER, researchers are able to pursue programmable network experiments across the mobile edge, core networks and the cloud.  The goal of this workshop is to bring together researchers from wireless networking, cloud computing, distributed computing, security, and autonomous systems to share their experiences and lessons learned from using these testbeds, challenges toward implementing at-scale experiments, discuss ideas to integrate experiments across multiple platforms, and facilitate the broader use of developed experiments and collected datasets with the community. 
