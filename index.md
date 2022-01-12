@@ -22,7 +22,7 @@ Supported by the development of several testbed facilities including Platforms f
 </p>
 
 ### Topics of Interest:
-<p align="justify">
+
   - Experiments using public platforms (e.g., PAWR, FABRIC, EMPOWER)
   - Cross-testbed experiments 
   - Evaluation of using wireless testbeds related to cellular networks, UAV systems, robotic systems, IoT systems
@@ -33,7 +33,7 @@ Supported by the development of several testbed facilities including Platforms f
   - Experimental evaluation of resiliency in programmable networks
   - Machine learning for programmable networks
   - Data sharing, and benchmarking in using cross-testbed experiments  
-</p>
+
 
 ### IMPORTANT DATES:
   - Abstract Submission: TBD
