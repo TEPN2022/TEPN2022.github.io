@@ -37,7 +37,7 @@ Supported by the development of several testbed facilities including Platforms f
 
 ### IMPORTANT DATES:
   - Abstract Submission: TBD
-  - Paper Submission: TBD
+  - Paper Submission: March, 15, 2022
   - Acceptance Notification: TBD
   - Camera Ready: TBD
   - Early Registration: TBD
