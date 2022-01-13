@@ -53,24 +53,3 @@ Supported by the development of several testbed facilities including Platforms f
 
 #### Web Chair:
   - Amir Ali-pour, Universite Grenoble Alpes (UGA), France
-
-#### Technical Program committee:
-
-  - Mohammed Gharib, Clemson University
-
-### Keynote:
-
-  - Ismail Guvenc, NC State University (AERPAW PI)
-
-
-
-### Panel Discussion:
-  TBD
-
-
-### Invited Authors:
-
-  - Linke Guo, Clemson
-  - Restuccia, Northeastern
-   
-
