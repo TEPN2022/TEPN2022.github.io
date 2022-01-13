@@ -37,7 +37,9 @@ Supported by the development of several testbed facilities including Platforms f
 ## Author information
 
 <p align="justify">
-Authors are invited to submit original unpublished manuscripts that demonstrate current research on distributed sensor systems related to WiDroIt topics of interest. Please use the US letter size (8.5 x 11 in) standard IEEE conference LaTeX format or Microsoft Word template available on the link below: http://www.ieee.org/conferences_events/conferences/publishing/templates.html
+Authors are invited to submit original unpublished manuscripts that demonstrate current research on distributed sensor systems related to WiDroIt topics of interest. Please use the US letter size (8.5 x 11 in) standard IEEE conference LaTeX format or Microsoft Word template available on the link below:
+
+[http://www.ieee.org/conferences_events/conferences/publishing/templates.html](http://www.ieee.org/conferences_events/conferences/publishing/templates.html)
 </p>
 
 <p align="justify">
