@@ -41,6 +41,8 @@ Authors are invited to submit original unpublished manuscripts that demonstrate 
 </p>
 http://www.ieee.org/conferences_events/conferences/publishing/templates.html
 
+
+
 <p align="justify">
 All submissions should be written in English and submitted as a full paper. Full papers should have a maximum of eight (8) printed pages including figures and references. Full papers are expected to describe fully developed ideas with a thorough evaluation. Note that Wi-DroIT does not follow the double-blind review policy. The names and affiliations of all the authors must be present in the submitted manuscript.
 </p>
