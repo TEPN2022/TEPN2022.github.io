@@ -25,14 +25,15 @@ Supported by the development of several testbed facilities including Platforms f
 
   - Experiments using public platforms (e.g., PAWR, FABRIC, EMPOWER)
   - Cross-testbed experiments 
-  - Evaluation of using wireless testbeds related to cellular networks, UAV systems, robotic systems, IoT systems
+  - Evaluation using wireless testbeds related to or using cellular/5G networks and protocols, UAV systems, robotic systems, IoT systems
   - Experimental evaluation of end-to-end (mobile edge, cloud) programmable networks
   - Wired and wireless communication architecture and topologies for end-to-end programmable networks
   - Experimental evaluation of privacy and security in end-to-end programmable networks
   - Trust management in programmable networks
   - Experimental evaluation of resiliency in programmable networks
   - Machine learning for programmable networks
-  - Data sharing, and benchmarking in using cross-testbed experiments  
+  - Data sharing, and benchmarking in using cross-testbed experiments
+  - Early experiments using or reporting on real-world deployments of 5G networks, protocols, and technologies.
 
 ## Author information
 
