@@ -56,14 +56,14 @@ All submissions should be written in English and submitted as a full paper. Full
 </p>
 
 
-### IMPORTANT DATES:
+## IMPORTANT DATES:
   - Abstract Submission: TBD
   - Paper Submission: March, 15, 2022
   - Acceptance Notification: TBD
   - Camera Ready: TBD
   - Early Registration: TBD
 
-### COMMITTEE:
+## COMMITTEE:
  
 #### Workshop Chairs:
  
