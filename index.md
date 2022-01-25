@@ -35,6 +35,15 @@ Supported by the development of several testbed facilities including Platforms f
   - Data sharing, and benchmarking in using cross-testbed experiments
   - Early experiments using or reporting on real-world deployments of 5G networks, protocols, and technologies.
 
+## Call for Work in Progress (WiP):
+
+<p align="justify">
+Ongoing research projects can be presented at TEPN2022 under the Work in Progress (WIP) category. This is an opportunity for potential authors to receive early feedback on their current work. Submitted papers must represent original material which is not currently under review in any other conference or journal and has not been previously published. 
+</p>
+<p align="justify">
+Paper length should not exceed four-page standard IEEE conference two-column format (references included). Please see the Author Information section for submission guidelines. All submitted papers will go through a peer review process. Accepted and presented papers will be included in the IEEE DCOSS 2022 proceedings and IEEE Xplore. IEEE reserves the right to exclude an accepted and registered but not presented paper from the IEEE digital library.
+</p>
+
 ## Author information
 
 <p align="justify">
@@ -63,5 +72,20 @@ All submissions should be written in English and submitted as a full paper. Full
   - Stephen Schwab, University of Southern California, USA
   - Srivatsan Ravi, University of Southern California, USA
 
+
+#### Publicity Chair:
+
+  - Amir Ali-pour : Université Grenoble Alpes, France
+ 
 #### Web Chair:
-  - Amir Ali-pour, Universite Grenoble Alpes (UGA), France
+
+  - Vuk Marojevic, Mississippi State University
+
+#### Technical Program committee:
+
+  - Zongming Fei, University of Kentucky
+  - Ilia Baldine, Renaissance Computing Institute at UNC
+  - Vuk Marojevic, Mississippi State University
+  - Jim Griffioen, University of Kentucky
+  - Mohammed Gharib, Clemson University
+  - Mohammad Amin Maleki Sadr, McGill University
