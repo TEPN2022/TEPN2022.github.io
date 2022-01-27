@@ -75,12 +75,12 @@ All submissions should be written in English and submitted as a full paper. Full
 
 #### Publicity Chair:
 
-  - Amir Ali-pour : Université Grenoble Alpes, France
+  - Vuk Marojevic, Mississippi State University
  
 #### Web Chair:
 
-  - Vuk Marojevic, Mississippi State University
-
+  - Amir Ali-pour : Université Grenoble Alpes, France
+ 
 #### Technical Program committee:
 
   - Zongming Fei, University of Kentucky
