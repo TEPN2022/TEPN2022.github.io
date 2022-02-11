@@ -12,7 +12,7 @@ May 30 – June 1, 2022
 
 co-located with [DCOSS 2022](https://dcoss.org)
 
-Submission link: [click here](https://tepn2022.github.io/)
+Submission link: [click here](https://easychair.org/conferences/?conf=tepn2022)
 
 
 ## SCOPE AND  TOPICS  OF  INTEREST
@@ -35,16 +35,8 @@ Supported by the development of several testbed facilities including Platforms f
   - Data sharing, and benchmarking in using cross-testbed experiments
   - Early experiments using or reporting on real-world deployments of 5G networks, protocols, and technologies.
 
-## Call for Work in Progress (WiP):
 
-<p align="justify">
-Ongoing research projects can be presented at TEPN2022 under the Work in Progress (WIP) category. This is an opportunity for potential authors to receive early feedback on their current work. Submitted papers must represent original material which is not currently under review in any other conference or journal and has not been previously published. 
-</p>
-<p align="justify">
-Paper length should not exceed four-page standard IEEE conference two-column format (references included). Please see the Author Information section for submission guidelines. All submitted papers will go through a peer review process. Accepted and presented papers will be included in the IEEE DCOSS 2022 proceedings and IEEE Xplore. IEEE reserves the right to exclude an accepted and registered but not presented paper from the IEEE digital library.
-</p>
-
-## Author information
+## Track 1: Call for Paper:
 
 <p align="justify">
 Authors are invited to submit original unpublished manuscripts that demonstrate current research on distributed sensor systems related to TEPN topics of interest. Please use the US letter size (8.5 x 11 in) standard IEEE conference LaTeX format or Microsoft Word template available on the link below:
@@ -55,9 +47,18 @@ Authors are invited to submit original unpublished manuscripts that demonstrate 
 All submissions should be written in English and submitted as a full paper. Full papers should have a maximum of eight (8) printed pages including figures and references. Full papers are expected to describe fully developed ideas with a thorough evaluation. Note that TEPN does not follow the double-blind review policy. The names and affiliations of all the authors must be present in the submitted manuscript.
 </p>
 
+## Track 2: Call for Work in Progress (WiP):
+
+<p align="justify">
+Ongoing research projects can be presented at TEPN2022 under the Work in Progress (WIP) category. This is an opportunity for potential authors to receive early feedback on their current work. Submitted papers must represent original material which is not currently under review in any other conference or journal and has not been previously published. 
+</p>
+<p align="justify">
+Paper length should not exceed four-page standard IEEE conference two-column format (references included). Please see the Author Information section for submission guidelines. All submitted papers will go through a peer review process. Accepted and presented papers will be included in the IEEE DCOSS 2022 proceedings and IEEE Xplore. IEEE reserves the right to exclude an accepted and registered but not presented paper from the IEEE digital library.
+</p>
+
 
 ## IMPORTANT DATES:
-  - Abstract Submission: TBD
+  - Abstract Submission: March, 15, 2022
   - Paper Submission: March, 15, 2022
   - Acceptance Notification: TBD
   - Camera Ready: TBD
