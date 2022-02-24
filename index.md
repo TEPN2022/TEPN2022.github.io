@@ -83,10 +83,11 @@ Paper length should not exceed four-page standard IEEE conference two-column for
   - Amir Ali-pour : Université Grenoble Alpes, France
  
 #### Technical Program committee:
-
+  
   - Zongming Fei, University of Kentucky
   - Ilia Baldine, Renaissance Computing Institute at UNC
   - Vuk Marojevic, Mississippi State University
   - Jim Griffioen, University of Kentucky
   - Mohammed Gharib, Clemson University
   - Mohammad Amin Maleki Sadr, McGill University
+  - David Hely, CEA Leti, France
