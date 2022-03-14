@@ -58,8 +58,8 @@ Paper length should not exceed four-page standard IEEE conference two-column for
 
 
 ## IMPORTANT DATES:
-  - Abstract Submission: March, 31, 2022 (Extended)
-  - Paper Submission: March, 31, 2022 (Extended)
+  - Abstract Submission: ~~March, 15~~~ March, 31, 2022 (Extended)
+  - Paper Submission: ~~March, 15~~~ March, 31, 2022 (Extended)
   - Acceptance Notification: TBD
   - Camera Ready: TBD
   - Early Registration: TBD
