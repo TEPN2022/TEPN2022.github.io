@@ -14,6 +14,26 @@ co-located with [DCOSS 2022](https://dcoss.org)
 
 Submission link: [click here](https://easychair.org/conferences/?conf=tepn2022)
 
+## KEYNOTE SPEAKERS
+<p align="justify">
+![image](https://user-images.githubusercontent.com/37213701/165646087-2659e241-fced-456f-b840-83d4779211ee.png)
+Arupjyoti (Arup) Bhuyan (S’86–SM’13) received
+the Ph.D. degree in engineering and applied sciences
+from Yale University. He is a wireless researcher in the Idaho National Laboratory (INL) and the Technical Director of the INL Wireless Security Institute. The focus of his research is on secure implementation of future generations of wireless communications with scientific exploration and engineering innovations across the fields of wireless technology, cybersecurity, and computational science. Specific goals are to lead and focus wireless security research efforts for 5G and Beyond with national impact, to secure communications for a nationwide unmanned aerial system and for 5G spectrum sharing with distributed scheduling. Arup has extensive industry experience in wireless communications from his work before he joined INL in October, 2015. 
+</p>
+
+## SCHEDULE
+
+| Time                | Talk                                                                              | Authors                                                                       |
+|---------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| 9-9:30 am           | Keynote 1- TBA                                                                    | Dr. Arupjyoti   (Arup) Bhuyan , INL                                           |
+| 9:30-9:55 am        | Prototyping a   Fine-Grained QoS Framework for 5G and NextG Networks using POWDER | Udhaya Kumar Dayalan,   Rostand A. K. Fezeu, Timothy J. Salo and Zhi-Li Zhang |
+| 9:55 am-10:20   am  | UHD-DPDK Performance   Analysis for Advanced Software Radio Communications        | Daniel Brennan and   Vuk Marojevic                                            |
+| 10:30-11:00 am      | Coffee Break                                                                      |                                                                               |
+| 11:00-11:30         | Keynote 2-TBA                                                                     | Dr. Jonathan M.   Smith, University of Pennsylvania                           |
+| 11:30-11:50 am      | Enabling P4 Hands-on   Training in an Academic Cloud                              | Jose Gomez, Elie F.   Kfoury and Jorge Crichigno                              |
+| 11:50 an-12:10   pm | Software Radio with   MATLAB Toolbox for 5G NR Waveform Generation                | Walaa Alqwider, Ajaya   Dahal and Vuk Marojevic                               |
+| 12:10 pm-12:30   pm | WIP: Experiment   Planning for Heterogeneous Programmable Networks                | Nik Sultana                                                                   |
 
 ## SCOPE AND  TOPICS  OF  INTEREST
 
