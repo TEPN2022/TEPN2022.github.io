@@ -16,7 +16,7 @@ Submission link: [click here](https://easychair.org/conferences/?conf=tepn2022)
 
 ## KEYNOTE SPEAKERS
 <p align="justify">
-![image](https://user-images.githubusercontent.com/37213701/165646087-2659e241-fced-456f-b840-83d4779211ee.png)
+![image](arupjyoti.png)
 Arupjyoti (Arup) Bhuyan (S’86–SM’13) received
 the Ph.D. degree in engineering and applied sciences
 from Yale University. He is a wireless researcher in the Idaho National Laboratory (INL) and the Technical Director of the INL Wireless Security Institute. The focus of his research is on secure implementation of future generations of wireless communications with scientific exploration and engineering innovations across the fields of wireless technology, cybersecurity, and computational science. Specific goals are to lead and focus wireless security research efforts for 5G and Beyond with national impact, to secure communications for a nationwide unmanned aerial system and for 5G spectrum sharing with distributed scheduling. Arup has extensive industry experience in wireless communications from his work before he joined INL in October, 2015. 
