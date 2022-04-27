@@ -15,7 +15,7 @@ co-located with [DCOSS 2022](https://dcoss.org)
 Submission link: [click here](https://easychair.org/conferences/?conf=tepn2022)
 
 ## KEYNOTE SPEAKERS
-<img align="left" width="100" src="https://github.com/TEPN2022/TEPN2022.github.io/blob/main/arupjyoti.jpg">
+<img align="left" width="200" src="https://github.com/TEPN2022/TEPN2022.github.io/blob/main/arupjyoti.jpg">
 
 <p align="justify">
 Arupjyoti (Arup) Bhuyan (S’86–SM’13) received
