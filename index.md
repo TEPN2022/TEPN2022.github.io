@@ -39,7 +39,8 @@ from Yale University. He is a wireless researcher in the Idaho National Laborato
 ### Keynote 1:
 **Title:** INL Wireless Test Beds for Over the Air (OTA) experimentation.
 
-**Abstract:**<p align="justify">  With NTIA’s experimental radio station status, INL’s wireless test bed (WTB) has “full” spectrum use as outlined in the NTIA Redbook. Along with a low noise floor due to its geographical location, the flexibility of spectrum use makes INL outdoor test bed a unique environment for outdoor wireless experimentations. This talk will discuss INL’s testing facilities for OTA experimentations, both in its research laboratories in town and the wireless test bed located in its 890 square mile test site.
+**Abstract:**
+<p align="justify">  With NTIA’s experimental radio station status, INL’s wireless test bed (WTB) has “full” spectrum use as outlined in the NTIA Redbook. Along with a low noise floor due to its geographical location, the flexibility of spectrum use makes INL outdoor test bed a unique environment for outdoor wireless experimentations. This talk will discuss INL’s testing facilities for OTA experimentations, both in its research laboratories in town and the wireless test bed located in its 890 square mile test site.
 </p>
 
 
