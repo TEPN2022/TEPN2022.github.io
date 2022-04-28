@@ -26,7 +26,7 @@ from Yale University. He is a wireless researcher in the Idaho National Laborato
 
 | Time                | Talk                                                                              | Authors                                                                       |
 |---------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| 9-9:30 am           | Keynote 1- TBA                                                                    | Dr. Arupjyoti   (Arup) Bhuyan , INL                                           |
+| 9-9:30 am           | Keynote 1- INL Wireless Test Beds for Over the Air (OTA) experimentation                                                                    | Dr. Arupjyoti   (Arup) Bhuyan , INL                                           |
 | 9:30-9:55 am        | Prototyping a   Fine-Grained QoS Framework for 5G and NextG Networks using POWDER | Udhaya Kumar Dayalan,   Rostand A. K. Fezeu, Timothy J. Salo and Zhi-Li Zhang |
 | 9:55 am-10:20   am  | UHD-DPDK Performance   Analysis for Advanced Software Radio Communications        | Daniel Brennan and   Vuk Marojevic                                            |
 | 10:30-11:00 am      | Coffee Break                                                                      |                                                                               |
