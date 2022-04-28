@@ -34,6 +34,7 @@ from Yale University. He is a wireless researcher in the Idaho National Laborato
 | 11:30-11:50 am      | Enabling P4 Hands-on   Training in an Academic Cloud                              | Jose Gomez, Elie F.   Kfoury and Jorge Crichigno                              |
 | 11:50 an-12:10   pm | Software Radio with   MATLAB Toolbox for 5G NR Waveform Generation                | Walaa Alqwider, Ajaya   Dahal and Vuk Marojevic                               |
 | 12:10 pm-12:30   pm | WIP: Experiment   Planning for Heterogeneous Programmable Networks                | Nik Sultana                                                                   |
+                                                         |
 ## KEYNOTES
 sss
 ### Keynote 1:
