@@ -34,6 +34,13 @@ from Yale University. He is a wireless researcher in the Idaho National Laborato
 | 11:30-11:50 am      | Enabling P4 Hands-on   Training in an Academic Cloud                              | Jose Gomez, Elie F.   Kfoury and Jorge Crichigno                              |
 | 11:50 an-12:10   pm | Software Radio with   MATLAB Toolbox for 5G NR Waveform Generation                | Walaa Alqwider, Ajaya   Dahal and Vuk Marojevic                               |
 | 12:10 pm-12:30   pm | WIP: Experiment   Planning for Heterogeneous Programmable Networks                | Nik Sultana                                                                   |
+## KEYNOTE
+
+**Title** INL Wireless Test Beds for Over the Air (OTA) experimentation.
+<p align="justify">
+**Abstract** With NTIA’s experimental radio station status, INL’s wireless test bed (WTB) has “full” spectrum use as outlined in the NTIA Redbook. Along with a low noise floor due to its geographical location, the flexibility of spectrum use makes INL outdoor test bed a unique environment for outdoor wireless experimentations. This talk will discuss INL’s testing facilities for OTA experimentations, both in its research laboratories in town and the wireless test bed located in its 890 square mile test site.
+</p>
+
 
 ## SCOPE AND  TOPICS  OF  INTEREST
 
@@ -83,7 +90,7 @@ Paper length should not exceed four-page standard IEEE conference two-column for
   - Acceptance Notification: April, 16, 2022
   - Camera Ready: April, 29, 2022
   - Early Registration: TBD
-
+  - Workshop day: June 1, 2022
 ## COMMITTEE:
  
 #### Workshop Chairs:
