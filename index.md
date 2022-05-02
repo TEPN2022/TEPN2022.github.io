@@ -24,16 +24,18 @@ from Yale University. He is a wireless researcher in the Idaho National Laborato
 
 ## SCHEDULE
 
-| Time                | Talk                                                                              | Authors                                                                       |
-|---------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| 9-9:30 am           | Keynote 1- INL Wireless Test Beds for Over the Air (OTA) experimentation                                                                    | Dr. Arupjyoti   (Arup) Bhuyan , INL                                           |
-| 9:30-9:55 am        | Prototyping a   Fine-Grained QoS Framework for 5G and NextG Networks using POWDER | Udhaya Kumar Dayalan,   Rostand A. K. Fezeu, Timothy J. Salo and Zhi-Li Zhang |
-| 9:55 am-10:20   am  | UHD-DPDK Performance   Analysis for Advanced Software Radio Communications        | Daniel Brennan and   Vuk Marojevic                                            |
-| 10:30-11:00 am      | Coffee Break                                                                      |                                                                               |
-| 11:00-11:30         | Keynote 2-TBA                                                                     | Dr. Jonathan M.   Smith, University of Pennsylvania                           |
-| 11:30-11:50 am      | Enabling P4 Hands-on   Training in an Academic Cloud                              | Jose Gomez, Elie F.   Kfoury and Jorge Crichigno                              |
-| 11:50 an-12:10   pm | Software Radio with   MATLAB Toolbox for 5G NR Waveform Generation                | Walaa Alqwider, Ajaya   Dahal and Vuk Marojevic                               |
-| 12:10 pm-12:30   pm | WIP: Experiment   Planning for Heterogeneous Programmable Networks                | Nik Sultana                                                                   |
+| Time                | Talk                                                                                                        | Authors/Presenters                                                            |
+|---------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| 9-9:30 am           | Keynote 1-    "Idaho National Laboratory (INL) Wireless Test Beds for Over the   Air (OTA) experimentation" | Dr. Arupjyoti (Arup)   Bhuyan , INL                                           |
+| 9:30-9:55 am        | Prototyping a   Fine-Grained QoS Framework for 5G and NextG Networks using POWDER                           | Udhaya Kumar Dayalan,   Rostand A. K. Fezeu, Timothy J. Salo and Zhi-Li Zhang |
+| 9:55 am-10:20   am  | UHD-DPDK Performance   Analysis for Advanced Software Radio Communications                                  | Daniel Brennan and   Vuk Marojevic                                            |
+| 10:30-11:00 am      | Coffee Break                                                                                                |                                                                               |
+| 11:00-11:30         | Keynote 2-   "Measure twice, cut once”                                                                      | Dr. Jonathan M.   Smith, University of Pennsylvania                           |
+| 11:30-11:50 am      | Enabling P4 Hands-on   Training in an Academic Cloud                                                        | Jose Gomez, Elie F.   Kfoury and Jorge Crichigno                              |
+| 11:50 an-12:10   pm | Software Radio with   MATLAB Toolbox for 5G NR Waveform Generation                                          | Walaa Alqwider, Ajaya   Dahal and Vuk Marojevic                               |
+| 12:10 pm-12:30   pm | WIP: Experiment   Planning for Heterogeneous Programmable Networks                                          | Nik Sultana                                                                   |
+| 12.30-14.00   pm    | Lunch Break                                                                                                 |                                                                               |
+
 
 ## KEYNOTES
 
