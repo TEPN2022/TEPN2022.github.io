@@ -17,7 +17,7 @@ Submission link: [click here](https://easychair.org/conferences/?conf=tepn2022)
 ## KEYNOTE SPEAKERS
 <img align="left" width="160" src="arupjyoti.jpg" style="margin-right: 10px;" >
 <p align="justify">
-Arupjyoti (Arup) Bhuyan (S’86–SM’13) received
+**Arupjyoti (Arup) Bhuyan** (S’86–SM’13) received
 the Ph.D. degree in engineering and applied sciences
 from Yale University. He is a wireless researcher in the Idaho National Laboratory (INL) and the Technical Director of the INL Wireless Security Institute. The focus of his research is on secure implementation of future generations of wireless communications with scientific exploration and engineering innovations across the fields of wireless technology, cybersecurity, and computational science. Specific goals are to lead and focus wireless security research efforts for 5G and Beyond with national impact, to secure communications for a nationwide unmanned aerial system and for 5G spectrum sharing with distributed scheduling. Arup has extensive industry experience in wireless communications from his work before he joined INL in October, 2015. 
 </p>
@@ -25,7 +25,7 @@ from Yale University. He is a wireless researcher in the Idaho National Laborato
 
 
 <p align="justify">
-Jonathan M. Smith holds the Olga and Alberico Pompa Professorship in Engineering and Applied Science and is a Professor of Computer and Information Science at the University of Pennsylvania. He was previously at Bell Laboratories and Bell Communications Research, joining Penn in 1989 after receiving his Ph.D. from Columbia University in New York. He was awarded the Office of the Secretary of Defense Medal for Exceptional Public Service in 2006 and the DARPA Medal for Superior Public Service in 2021. He became an IEEE Fellow in 2001.
+**Jonathan M. Smith** holds the Olga and Alberico Pompa Professorship in Engineering and Applied Science and is a Professor of Computer and Information Science at the University of Pennsylvania. He was previously at Bell Laboratories and Bell Communications Research, joining Penn in 1989 after receiving his Ph.D. from Columbia University in New York. He was awarded the Office of the Secretary of Defense Medal for Exceptional Public Service in 2006 and the DARPA Medal for Superior Public Service in 2021. He became an IEEE Fellow in 2001.
 </p>
 
 ## SCHEDULE
