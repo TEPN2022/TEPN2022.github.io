@@ -25,7 +25,7 @@ from Yale University. He is a wireless researcher in the Idaho National Laborato
 
 
 **Jonathan M. Smith** 
-<img align="left" width="160" src="john.png" style="margin-right: 10px;" >
+<img align="left" width="160" src="John.png" style="margin-right: 10px;" >
 <p align="justify"> Jonathan M. Smith holds the Olga and Alberico Pompa Professorship in Engineering and Applied Science and is a Professor of Computer and Information Science at the University of Pennsylvania. He was previously at Bell Laboratories and Bell Communications Research, joining Penn in 1989 after receiving his Ph.D. from Columbia University in New York. He was awarded the Office of the Secretary of Defense Medal for Exceptional Public Service in 2006 and the DARPA Medal for Superior Public Service in 2021. He became an IEEE Fellow in 2001.
 </p>
 
